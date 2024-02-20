@@ -7,7 +7,7 @@ A Great Tool to Gather SQL ENDPOINTS Based on The Error Reported written in GO.
 Clone the repository, chmod u+x ender.go, run the script.
 
 ```bash
-git clone https://github.com/DecodedTrojans/Ender.git && cd Ender
+git clone https://github.com/LinuxLuminaries/Ender.git && cd Ender
 ```
 
 ## Usage
