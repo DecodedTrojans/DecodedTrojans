@@ -1,6 +1,6 @@
 # Ender
 
-A Great Tool to Gather SQL ENDPOINTS Based on The Error Reported written GO.
+A Great Tool to Gather SQL ENDPOINTS Based on The Error Reported written in GO.
 
 ## Installation
 
